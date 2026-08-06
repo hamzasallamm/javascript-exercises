@@ -8,8 +8,10 @@
 */
 
 // Add your code right below, good luck!
-
-
+const age = 1965 - 1947
+const firstName = "Carlos"
+const lastName = "Stevenson"
+console.log("Hello! My name is " + firstName + " " + lastName + " and I am " + age + " years old.")
 
 
 
